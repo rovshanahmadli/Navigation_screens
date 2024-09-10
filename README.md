@@ -2,7 +2,7 @@
 
 ## 🛠️ Built With
 
-- [Navigation](https://developer.android.com/guide/navigation)
+- [Navigation Jetpack Library](https://developer.android.com/guide/navigation)
 - [View Binding](https://developer.android.com/topic/libraries/view-binding)
 - [DataBinding](https://developer.android.com/topic/libraries/data-binding)
 
